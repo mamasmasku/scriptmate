@@ -1,0 +1,31 @@
+{
+  "name": "scriptmate",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "lucide-react": "^0.383.0",
+    "motion": "^12.34.3",
+    "next": "^14.2.0",
+    "openai": "^4.56.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.0",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "typescript": "~5.8.2"
+  }
+}
